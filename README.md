@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá ! Sou Joedson Carlos 👋
+Estudante de **Ciências da Computação** no Instituto Federal do Ceará (IFCE), apaixonado por Ciências Exatas e Tecnologia. Atuo como pesquisador de iniciação científica em **Inteligência Artificial**, com foco em **Visão Computacional** — a área que ensina máquinas a enxergar e interpretar o mundo.
 
-<!--
-**JoedsonC/joedsonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Encantado pelo universo das **Redes Neurais** e sempre de olho em novas ferramentas, frameworks e desafios. Acredito que aprender nunca para — 
+e que cada linha de código é um passo a mais em direção a algo maior.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Linguagens
+
+![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1565C0?style=for-the-badge&logo=python&logoColor=FFD600)
+
+### 🔬 Interesses
+
+`Inteligência Artificial` `Visão Computacional` `Redes Neurais` `OpenCV` `Deep Learning`
+
+---
+
+> *"Só podemos ver um curto trecho à frente, mas podemos ver muito lá que precisa ser feito."*
+> — **Alan Turing**
