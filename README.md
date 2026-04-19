@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JoedsonC/JoedsonC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JoedsonC/JoedsonC/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/JoedsonC/JoedsonC/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Olá ! Sou Joedson Carlos 👋
 Estudante de **Ciências da Computação** no Instituto Federal do Ceará (IFCE), apaixonado por Ciências Exatas e Tecnologia. Atuo como pesquisador de iniciação científica em **Inteligência Artificial**, com foco em **Visão Computacional** — a área que ensina máquinas a enxergar e interpretar o mundo.
 
