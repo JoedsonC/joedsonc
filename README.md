@@ -6,8 +6,10 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/JoedsonC/JoedsonC/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Olá ! Sou Joedson Carlos 👋
-Estudante de **Ciências da Computação** no Instituto Federal do Ceará (IFCE), apaixonado por Ciências Exatas e Tecnologia. Atuo como pesquisador de iniciação científica em **Inteligência Artificial**, com foco em **Visão Computacional** — a área que ensina máquinas a enxergar e interpretar o mundo.
+---
+
+## Olá !
+Sou Joedson Carlos, Estudante de **Ciências da Computação** no Instituto Federal do Ceará (IFCE), apaixonado por Ciências Exatas e Tecnologia. Atuo como pesquisador de iniciação científica em **Inteligência Artificial**, com foco em **Visão Computacional** — a área que ensina máquinas a enxergar e interpretar o mundo.
 
 Encantado pelo universo das **Redes Neurais** e sempre de olho em novas ferramentas, frameworks e desafios. Acredito que aprender nunca para — 
 e que cada linha de código é um passo a mais em direção a algo maior.
