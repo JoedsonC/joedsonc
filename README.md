@@ -27,5 +27,3 @@ e que cada linha de código é um passo a mais em direção a algo maior.
 `Inteligência Artificial` `Visão Computacional` `Redes Neurais` `OpenCV` `Deep Learning`
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joedsonc&layout=compact)](https://github.com/joedsonc)
