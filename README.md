@@ -28,5 +28,4 @@ e que cada linha de código é um passo a mais em direção a algo maior.
 
 ---
 
-> *"Só podemos ver um curto trecho à frente, mas podemos ver muito lá que precisa ser feito."*
-> — **Alan Turing**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joedsonc&layout=compact)](https://github.com/joedsonc)
