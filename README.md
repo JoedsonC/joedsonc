@@ -19,7 +19,7 @@ e que cada linha de código é um passo a mais em direção a algo maior.
 ### 🛠️ Linguagens
 
 ![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1565C0?style=for-the-badge&logo=python&logoColor=FFD600)
 
 ### 🔬 Interesses
